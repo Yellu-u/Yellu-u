@@ -1,4 +1,4 @@
-# 🎀 Hola, soy Josefina
+# 🎀 Hola, soy Josefina!!
 
 🎓 Estudiante de **Ingeniería en Informática en Duoc UC**  
 💻 Desarrollo de Software · Full Stack · Bases de Datos  
@@ -34,4 +34,7 @@
 🌸 React  
 🌸 Bases de datos y arquitectura de software
 
+---
+
+### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yellu-u&theme=jolly)](https://git.io/streak-stats)
