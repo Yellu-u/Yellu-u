@@ -1,4 +1,4 @@
-# 🎀 Hola, soy Josefina!!
+# 𖹭 Hola, soy Josefina .ᐟ.ᐟ
 
 🎓 Estudiante de **Ingeniería en Informática en Duoc UC**  
 💻 Desarrollo de Software · Full Stack · Bases de Datos  
@@ -21,10 +21,10 @@
 
 ### 📚 Actualmente
 
-🌸 Desarrollo Full Stack  
-🌸 Java + Spring Boot  
-🌸 React  
-🌸 Bases de datos y arquitectura de software
+➺ Desarrollo Full Stack  
+➺ Java + Spring Boot  
+➺ React  
+➺ Bases de datos y arquitectura de software
 
 ---
 
