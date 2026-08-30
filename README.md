@@ -19,14 +19,6 @@
 
 ---
 
-### 🌷 Proyectos
-
-🎈 **Abracadabra** — Aplicación web para gestión de eventos infantiles.  
-💧 **MasAgua** — Sistema de gestión de pedidos.  
-🧹 **Proper** — Sistema de gestión basado en microservicios.
-
----
-
 ### 📚 Actualmente
 
 🌸 Desarrollo Full Stack  
