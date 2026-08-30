@@ -29,4 +29,4 @@
 ---
 
 ### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yellu-u&theme=catppuccin-latte&hide_border=true&locale=es&background=0%2C1D262F%2C1D262F&ring=FF9DC3&sideLabels=FF69B4&fire=FF69B4&stroke=FF69B431&currStreakNum=FF69B4&sideNums=F5E4F2&currStreakLabel=FF69B4&dates=F5E4F2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yellu-u&theme=catppuccin-latte&hide_border=true&locale=es&ring=FF9DC3&sideLabels=FF69B4&fire=FF69B4&stroke=FF69B431&currStreakNum=FF69B4&sideNums=F5E4F2&currStreakLabel=FF69B4&dates=F5E4F2&background=45%2CEB545400%2CEBEBEB00)](https://git.io/streak-stats)
